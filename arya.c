@@ -7,5 +7,6 @@ int main() {
 	scanf("%d%d", &a, &b);
 	printf("Sum= %d\n", a+b);
 	printf("program successed");
+	printf("See you again , thank you");
 	return 0;
 }
